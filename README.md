@@ -83,7 +83,7 @@ with mp_face_mesh.FaceMesh(
     cv2.destroyAllWindows()
 ```
 
-## Explicación paso a paso
+## Explicación paso a paso generada por ChatGPT:
 
 1. **Importación de bibliotecas**: Se importan las bibliotecas necesarias para el procesamiento de imágenes y la detección de rostros.
 
@@ -127,13 +127,11 @@ with mp_face_mesh.FaceMesh(
 Para ejecutar el script, utiliza el siguiente comando en tu terminal:
 
 ```bash
-python nombre_del_script.py
+python cara1.py
 ```
 
-## Captura:
-<span><img src="https://github.com/VintaBytes/Deteccion-de-malla-facial-con-OpenCV-y-MediaPipe/blob/main/cara1.png"/></span>
+## Captura de pantalla:
+<span><img src="https://github.com/VintaBytes/Deteccion-de-malla-facial-con-OpenCV-y-MediaPipe/blob/main/cara1.png"  width="320px"/></span>
 
 
-## Licencia
 
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
