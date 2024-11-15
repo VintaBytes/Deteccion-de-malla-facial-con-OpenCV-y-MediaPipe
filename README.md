@@ -130,9 +130,9 @@ Para ejecutar el script, utiliza el siguiente comando en tu terminal:
 python nombre_del_script.py
 ```
 
-## Video:
+## Captura:
+<span><img src="https://github.com/VintaBytes/Deteccion-de-malla-facial-con-OpenCV-y-MediaPipe/blob/main/cara1.png"/></span>
 
-[prueba](https://github.com/VintaBytes/Deteccion-de-malla-facial-con-OpenCV-y-MediaPipe/blob/main/cara1.mp4)
 
 ## Licencia
 
