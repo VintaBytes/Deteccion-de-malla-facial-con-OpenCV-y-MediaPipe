@@ -1,6 +1,8 @@
 # Detección de malla facial con OpenCV y MediaPipe
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-computer%20vision-0097A7?style=for-the-badge"/>
 
 Este script en Python utiliza las bibliotecas **OpenCV** y **MediaPipe** para detectar y visualizar los puntos de referencia (landmarks) faciales en tiempo real a través de la cámara web. Además, resalta puntos específicos de la malla facial.
 
